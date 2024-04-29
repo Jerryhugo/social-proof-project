@@ -8,13 +8,12 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -33,10 +32,10 @@ Users should be able to:
 ![Design preview for the Social proof section coding challenge](./images/social-proof-project.png)
 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/solution-to-social-proof-challenge-mmIRYWrkDq)
+- Live Site URL: [live site](https://social-proof-p.netlify.app/)
 
-## My process
+
 
 ### Built with
 
@@ -70,4 +69,4 @@ On my journey to become a proficient fullstack develop, i will continue to learn
 
 
 - Frontend Mentor - [@Jerryhugo](https://www.frontendmentor.io/profile/Jerryhugo)
-- 
+
